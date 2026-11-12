@@ -1,0 +1,628 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:tzone://Microsoft/Utc
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Denise Lee (djlee1):mailto:djlee1@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Denise Lee
+  (djlee1):mailto:djlee1@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Andrew Lu 
+ (andrlu):mailto:andrlu@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Dana Smith
+  (danasm):mailto:danasm@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=David Smit
+ h (davismi5):mailto:davismi5@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Andrew Wu 
+ (andrewu2):mailto:andrewu2@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Thea Feldg
+ oise (tfeldgoi):mailto:tfeldgoi@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Veera Bhas
+ kar Mutyala (vemutyal):mailto:vemutyal@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Annastasia
+  West (annwest):mailto:annwest@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Johanna Ca
+ plan (jcaplan):mailto:jcaplan@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Lisa Vera 
+ (liscontr):mailto:liscontr@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.spas
+ quie (Internal Group):mailto:staff.spasquie@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.davi
+ sick (Internal Group):mailto:staff.davisick@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.wsyl
+ vest (Internal Group):mailto:staff.wsylvest@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.mikr
+ aus (Internal Group):mailto:staff.mikraus@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.vmay
+ hall (Internal Group):mailto:staff.vmayhall@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.brst
+ ephe (Internal Group):mailto:staff.brstephe@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.apuj
+ ols (Internal Group):mailto:staff.apujols@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.bsto
+ ut (Internal Group):mailto:staff.bstout@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.rcic
+ ero (Internal Group):mailto:staff.rcicero@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.wrei
+ ch (Internal Group):mailto:staff.wreich@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Chih-Tsung
+  Huang (chuang):mailto:chuang@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Shweta Che
+ gu (schegu):mailto:schegu@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Cavleen Si
+ ngh (casingh):mailto:casingh@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Pinky Pank
+ eth (ppanketh):mailto:ppanketh@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Krithika S
+ rinivas (kritsrin):mailto:kritsrin@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Anna Yu (a
+ nnay):mailto:annay@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Aaron Dill
+ ard (aadillar):mailto:aadillar@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Syed Imam 
+ (syimam):mailto:syimam@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Abhilash M
+  (abhilm):mailto:abhilm@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Alex Pujol
+ s (apujols):mailto:apujols@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Aman Negus
+  (anegus):mailto:anegus@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Amy Wang (
+ lenwang):mailto:lenwang@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Andres Sin
+ tes (asintes):mailto:asintes@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Antonio Ga
+ rza (garzaga):mailto:garzaga@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Aravind Li
+ ngambudi Ananth (alingamb):mailto:alingamb@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Arthi Bakt
+ havathsalam (abakthav):mailto:abakthav@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Art Farnsw
+ orth (afarnswo):mailto:afarnswo@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ashok Sing
+ h (aksingh):mailto:aksingh@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Aysha Jabe
+ en (ajabeen):mailto:ajabeen@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Bharat K J
+ agani (bjagani):mailto:bjagani@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Brent Tair
+ a (btaira):mailto:btaira@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Brian Stou
+ t (bstout):mailto:bstout@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Chad Jones
+  (cmjones):mailto:cmjones@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Christy Wa
+ lsh (chrwalsh):mailto:chrwalsh@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Danny Duon
+ g (danduong):mailto:danduong@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Dave Liebm
+ an (dliebman):mailto:dliebman@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Dave VanSp
+ ybrook (spybrook):mailto:spybrook@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=David Stal
+ lings (dstallin):mailto:dstallin@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Duke Hoang
+  (duhoang):mailto:duhoang@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Edward Lin
+  (edlin):mailto:edlin@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Edmund Rom
+ ero (edmromer):mailto:edmromer@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Eric Nguye
+ n (ernguyen):mailto:ernguyen@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Frances Go
+ ng (fgong):mailto:fgong@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Frank Truo
+ ng (vyphang):mailto:vyphang@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Grant Shir
+ k (gshirk):mailto:gshirk@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Greg Brown
+  (gbrown):mailto:gbrown@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Greg Gall 
+ (ggall):mailto:ggall@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Greg Lovel
+ ace (glovelac):mailto:glovelac@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jacob Rapp
+  (jarapp):mailto:jarapp@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jad Peters
+ on (japeters):mailto:japeters@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jason Pott
+ erf (jpotterf):mailto:jpotterf@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jason Shea
+ rer (jasheare):mailto:jasheare@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jared Head
+ ley (jheadley):mailto:jheadley@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jennifer F
+ ernandez (jennifef):mailto:jennifef@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jim Brandt
+  (jbrandt):mailto:jbrandt@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jonathan R
+ uckheim (jruckhei):mailto:jruckhei@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Judith Tum
+ bokon (juditht):mailto:juditht@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Justin Cap
+ les (jcaples):mailto:jcaples@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kannan Ram
+ amurthy (kanramam):mailto:kanramam@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kelley Sch
+ lenger (kelleysc):mailto:kelleysc@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kevin Hayw
+ ard (khayward):mailto:khayward@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kevin To (
+ kevinto):mailto:kevinto@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Khanh Ly (
+ khaly):mailto:khaly@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Lakshmi Ve
+ dula (lvedula):mailto:lvedula@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Lynne McGu
+ inness (lshiraki):mailto:lshiraki@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mani Veera
+ chamy (mveerach):mailto:mveerach@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mark Schwe
+ ighardt (maschwei):mailto:maschwei@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Matt Strou
+ d (mastroud):mailto:mastroud@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nathan Moz
+ elle (nmozelle):mailto:nmozelle@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nicolas Co
+ ulet (ncoulet):mailto:ncoulet@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nilay Gupt
+ a (nigupta):mailto:nigupta@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ony Anglad
+ e (onanglad):mailto:onanglad@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Pankil Sha
+ h (pankisha):mailto:pankisha@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Paul Melto
+ n (pmelton):mailto:pmelton@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Pauline Ch
+ ik (pchik):mailto:pchik@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Prathmesh 
+ Khare (prkhare):mailto:prkhare@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Raj Chandr
+ a (rajechan):mailto:rajechan@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ritu Gupta
+  (ritugupt):mailto:ritugupt@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Robert Bur
+ ns (roberbur):mailto:roberbur@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Rob Lowry 
+ (rlowry):mailto:rlowry@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Robin Agui
+ rre (robaguir):mailto:robaguir@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Rochelle S
+ antos (rocsanto):mailto:rocsanto@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ruth Parra
+ s (rparras):mailto:rparras@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ryan Pupli
+ s (rpuplis):mailto:rpuplis@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Samir Pari
+ kh (saparikh):mailto:saparikh@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Shridhar C
+ hari (shridarc):mailto:shridarc@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Siobhan St
+ offregen (sistoffr):mailto:sistoffr@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Siu Po Lee
+  (siulee):mailto:siulee@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Srinivasa 
+ Krishnamachar (skrishn2):mailto:skrishn2@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Srinivas K
+ arnati (skarnati):mailto:skarnati@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Subhajit N
+ aha (sunaha):mailto:sunaha@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Suja Sunde
+ rrajan (sujsunde):mailto:sujsunde@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sukhjinder
+  San Toor (stoor):mailto:stoor@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sumana Bee
+ ram (subeeram):mailto:subeeram@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tara Clark
+  (tarclark):mailto:tarclark@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tillmann B
+ eck (tilbeck):mailto:tilbeck@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tom Kintne
+ r (tkintner):mailto:tkintner@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tom Schwab
+  (toschwab):mailto:toschwab@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Trang Ngo 
+ (htrang):mailto:htrang@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Troy Lu (q
+ ualu):mailto:qualu@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Vic Chia (
+ vichia):mailto:vichia@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Vijay Tapa
+ skar (vtapaska):mailto:vtapaska@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=William Sc
+ hobey (wschobey):mailto:wschobey@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tim Hoolih
+ an (thooliha):mailto:thooliha@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Stephen Or
+ r (sorr):mailto:sorr@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Saleema Sy
+ ed (saleemas):mailto:saleemas@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jeremy Lau
+ renson (jlaurens):mailto:jlaurens@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Isaac Khan
+  (isakhan):mailto:isakhan@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Brennen Mo
+ ore (brenmoor):mailto:brenmoor@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Matt Gilli
+ es (mgillies):mailto:mgillies@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Scott Edwa
+ rds (scoedwar):mailto:scoedwar@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Rich Bayes
+  (ribayes):mailto:ribayes@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Vivek Meno
+ n (vivmenon):mailto:vivmenon@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Espen Lobe
+ rg (eloberg):mailto:eloberg@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tom Richar
+ ds (tomricha):mailto:tomricha@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jeremy Wit
+ ikko (jewitikk):mailto:jewitikk@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nick Hamil
+ ton (nihamilt):mailto:nihamilt@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Reg Johnso
+ n (regjohns):mailto:regjohns@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Joyce Chua
+ ng (joychuan):mailto:joychuan@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Matt Szaba
+ dy (mszabady):mailto:mszabady@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Paige Kha 
+ (pkha):mailto:pkha@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Anthony No
+ lasco (annolasc):mailto:annolasc@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jason Gall
+ o (jasgallo):mailto:jasgallo@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Julie Berg
+  (juberg):mailto:juberg@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=William Re
+ ich (wreich):mailto:wreich@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Betty Lee 
+ (bettlee):mailto:bettlee@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Bob Cicero
+  (rcicero):mailto:rcicero@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Garrett He
+ raty (gheraty):mailto:gheraty@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Shianne Ro
+ an (shgunthe):mailto:shgunthe@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Amy Ryan (
+ amryan):mailto:amryan@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Craig Burn
+ ham (crburnha):mailto:crburnha@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kristin Gi
+ oberto (kristing):mailto:kristing@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Patrick Eu
+ stace (paeustac):mailto:paeustac@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Yolanda Co
+ rtes (ycortes):mailto:ycortes@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Vanessa Su
+ likowski (vsulikow):mailto:vsulikow@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Linda Page
+  (lpage):mailto:lpage@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ziya Sang 
+ (zsang):mailto:zsang@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Emily Eddy
+  (emeddy):mailto:emeddy@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Madelaine 
+ Sinclair (madsincl):mailto:madsincl@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Anton Maly
+ gin (amalygin):mailto:amalygin@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Arun Annav
+ arapu (aannavar):mailto:aannavar@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Brian Tuxh
+ orn (tuxhorb):mailto:tuxhorb@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Buffy Rans
+ om (buransom):mailto:buransom@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Camilia Wo
+ ng (camwong):mailto:camwong@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Chiara Med
+ icina (cmedicin):mailto:cmedicin@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Christina 
+ Camacho (christca):mailto:christca@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Chuck Smit
+ h (chasmith):mailto:chasmith@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Daniel McG
+ inniss (dmcginni):mailto:dmcginni@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Deepak May
+ ya (mayya):mailto:mayya@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Dhananjaya
+  Kathait (dkathait):mailto:dkathait@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Diana Lonc
+ ar (diloncar):mailto:diloncar@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Eeshita Gr
+ over (egrover):mailto:egrover@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Eliot Lear
+  (elear):mailto:elear@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Hazim Dahi
+ r (hdahir):mailto:hdahir@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Heather Sm
+ ith (hsmith):mailto:hsmith@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jeff Redcl
+ ift (jredclif):mailto:jredclif@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jennifer C
+ lossick (jclossic):mailto:jclossic@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jimit Mahe
+ ta (jimitm):mailto:jimitm@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Joel Goerg
+ en (jgoergen):mailto:jgoergen@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Justin Jon
+ es (jusjones):mailto:jusjones@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kaushik Da
+ m (kdam):mailto:kdam@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kerry Yun 
+ (keryun):mailto:keryun@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kevin Woll
+ enweber (kwollenw):mailto:kwollenw@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Leena Kulk
+ arni (lekulkar):mailto:lekulkar@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Madhava Re
+ ddy Siddareddygari (msiddare):mailto:msiddare@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Manish Muk
+ herjee (manmukhe):mailto:manmukhe@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mark Nash 
+ (marnash):mailto:marnash@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Monica G (
+ mgaviran):mailto:mgaviran@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Murali Gan
+ dluru (mgandlur):mailto:mgandlur@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Neel Vora 
+ (nevora):mailto:nevora@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nick Edwar
+ ds (nicedwar):mailto:nicedwar@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Phal Nanda
+  (phaln):mailto:phaln@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ramses Sme
+ yers (rsmeyers):mailto:rsmeyers@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sachin Rat
+ an Ahire (sacahire):mailto:sacahire@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Saad Hasan
+  (saahasan):mailto:saahasan@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Samuel Pas
+ quier (spasquie):mailto:spasquie@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Satish Sur
+ apaneni (sasurapa):mailto:sasurapa@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sonia Mahe
+ r (somaher):mailto:somaher@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sunil Gudu
+ rvalmiki (sunilgv):mailto:sunilgv@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Surbhi Kau
+ l (skaul):mailto:skaul@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Venkat Kri
+ shnamurthy (venkat):mailto:venkat@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Vijay Goel
+  (vijgoel):mailto:vijgoel@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Umang Bhar
+ dwaj (ubhardwa):mailto:ubhardwa@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Anand Thir
+ umalai Ananthanpillai (anthirum):mailto:anthirum@cisco.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Varun Cher
+ ukuri (vcheruku):mailto:vcheruku@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Derek Pari
+ si (deparisi):mailto:deparisi@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Alison Jon
+ es (alisonr):mailto:alisonr@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Wes Sylves
+ ter (wsylvest):mailto:wsylvest@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=David Visi
+ ck (davisick):mailto:davisick@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kristyn Ho
+ gan (krhogan):mailto:krhogan@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=group.asin
+ tes (Internal Group):mailto:group.asintes@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=group.pace
+ rnic (Internal Group):mailto:group.pacernic@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mark Alfie
+ ri (maalfier):mailto:maalfier@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sam Wood (
+ samwoo):mailto:samwoo@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Maria Estr
+ ano Colina (mestrano):mailto:mestrano@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Christine 
+ Van de Houten (cvandeho):mailto:cvandeho@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Rob Van Hy
+ fte (rvanhyft):mailto:rvanhyft@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Robyn Burk
+ es (rburkes):mailto:rburkes@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Dean Galan
+ os (dgalanos):mailto:dgalanos@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Yon Burke 
+ (yburke):mailto:yburke@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Pasha Arda
+ kani (aardakan):mailto:aardakan@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Brad Steph
+ en (brstephe):mailto:brstephe@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Clayton Da
+ ffron (cldaffro):mailto:cldaffro@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Colton Fre
+ und (cofreund):mailto:cofreund@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Isabella Y
+ ani (iyani):mailto:iyani@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ed Parkins
+ on (eparkins):mailto:eparkins@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Dustin Bat
+ es (dubates):mailto:dubates@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jodi Larte
+ r (jlarter):mailto:jlarter@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kevin Sche
+ mery (kschemer):mailto:kschemer@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mehul Pate
+ l (mehulpat):mailto:mehulpat@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Brian McCo
+ urt (brmccour):mailto:brmccour@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Randy Dimo
+ s (radimos):mailto:radimos@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Paul Cerni
+ ck (pacernic):mailto:pacernic@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nathan Cla
+ yton (nclayton):mailto:nclayton@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ross Sweet
+ zir (jsweetzi):mailto:jsweetzi@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Chris Eato
+ n (chreaton):mailto:chreaton@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ryan Casey
+  (rycasey):mailto:rycasey@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Saif Vohra
+  (savohra):mailto:savohra@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Thomas Lov
+ y (tlovy):mailto:tlovy@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Andy Ellis
+  (andellis):mailto:andellis@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Murray Van
+ derheyden Panzer (murvande):mailto:murvande@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Helena Pol
+ akova (hpolakov):mailto:hpolakov@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Yasmin Del
+ gado (yadelgad):mailto:yadelgad@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Chris Grab
+ le (cgrable):mailto:cgrable@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ronnell No
+ bles (ronobles):mailto:ronobles@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Lindsay Ga
+ llagher (lingalla):mailto:lingalla@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ben Edward
+ s (beedward):mailto:beedward@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Natalie Ro
+ ckefeller (nrockefe):mailto:nrockefe@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sweetie Br
+ owne (sweetieb):mailto:sweetieb@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=staff.chrw
+ alsh (Internal Group):mailto:staff.chrwalsh@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jason Tsai
+  (jatsai):mailto:jatsai@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Zahida Alt
+ alib (zaltalib):mailto:zaltalib@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Andrico Sp
+ ates (aspates):mailto:aspates@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Omid Sadra
+ ei (omsadrae):mailto:omsadrae@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Patrick No
+ lan (patnolan):mailto:patnolan@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Alejandro 
+ Rodriguez (alejrodr):mailto:alejrodr@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Paul Buehl
+ er (pabuehle):mailto:pabuehle@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=John Dinke
+ l (jodinkel):mailto:jodinkel@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kian Agahi
+  (kagahi):mailto:kagahi@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Justin Mea
+ ley (jmealey):mailto:jmealey@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Casey Kach
+ marski (ckachmar):mailto:ckachmar@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mike Kraus
+  (mikraus):mailto:mikraus@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Yash Kejar
+ iwal (ykejariw):mailto:ykejariw@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Amanda San
+ doval (amsandov):mailto:amsandov@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Troy Perki
+ ns (troperki):mailto:troperki@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Aidan Miss
+ hula (amisshul):mailto:amisshul@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ray Cushma
+ n (rcushman):mailto:rcushman@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=John Marti
+ n (johnma2):mailto:johnma2@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Michael Ot
+ ani (motani):mailto:motani@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Marleese A
+ ttilakos (mattilak):mailto:mattilak@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Paulo Pere
+ ira (pauloper):mailto:pauloper@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ale Mantil
+ la (alejmart):mailto:alejmart@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Katherine 
+ Hannah (kahannah):mailto:kahannah@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jenn Condi
+ e (jennbutl):mailto:jennbutl@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Abubakar M
+ aaroof (amaaroof):mailto:amaaroof@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Rocio Dant
+ art (rodantar):mailto:rodantar@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Marco Tagl
+ iabue (mtaglia):mailto:mtaglia@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tilman Tau
+ bert (ttaubert):mailto:ttaubert@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Peter van 
+ den Houten (petevand):mailto:petevand@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Cyril Vail
+ ler (cvailler):mailto:cvailler@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Edward Ago
+ stinho (eagostin):mailto:eagostin@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Rob Morett
+ i (rmoretti):mailto:rmoretti@cisco.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Kevin Ferr
+ ell (keferrel):mailto:keferrel@cisco.com
+DESCRIPTION:Come learn more about Cisco’s latest Business Unit\, Energy N
+ etworking Systems. Join us for our quarterly Town Hall on November 17. We'
+ ll share a business update and review progress across growth and pipeline\
+ , product roadmap\, and our partner and design-in ecosystem. As we focus o
+ n refresh of LDOS and the hypergrowth of Data Centers we invite teams from
+  across every function to better understand how Fault Managed Power and En
+ ergy Management are embedded into every engineering and customer conversat
+ ion. We'll also look ahead at priorities for the coming quarter and will h
+ ave a live chat for questions and discussions.\n\nPlease feel free to exte
+ nd this invitation to members we have missed. If you cannot attend\, it wi
+ ll be recorded\, summarized and shared after the meeting.\n\nLooking forwa
+ rd to seeing you there.\n\n~Denise Lee\, VP Energy Networking Systems and 
+ Jason Shearer\, Dir GTM Energy Networking Systems\nEnergy Networking Syste
+ ms Team\n\n\n\n-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-\n-- Do not de
+ lete or change any of the following text. --\n\nWhen it's time\, join your
+  Webex meeting here.\n\n\nMeeting number (access code): 2661 231 6771\nMee
+ ting password: Sv9uZ6VwAm8 (78989689 when dialing from a phone)\n\n\nJoin 
+ meeting<https://cisco.webex.com/cisco/j.php?MTID=m00ebb943af86c709abb6c0fb
+ c1340247>\n\nTap to join from a mobile device (attendees only)\n+1-408-525
+ -6800\,\,26612316771#78989689#<tel:%2B1-408-525-6800\,\,*01*26612316771%23
+ 78989689%23*01*> Call-in toll number (US/Canada)\nSome mobile devices may 
+ ask attendees to enter a numeric password.\n\nJoin by phone\n+1-408-525-68
+ 00 Call-in toll number (US/Canada)\nGlobal call-in numbers<https://cisco.w
+ ebex.com/cisco/globalcallin.php?MTID=mde31aa41e8be03d580483574fa8a8551>\n\
+ nJoin from a video system or application\nDial 26612316771@webex.com<sip:2
+ 6612316771@webex.com>\nYou can also dial 173.243.2.68 and enter your meeti
+ ng number.\n\n\nIf you are a host\, click here<https://cisco.webex.com/web
+ appng/sites/cisco/meeting/info/30a6150d675c494888c875a4988f1158> and login
+  site to view host information.\n\n\nNeed help? Go to http://help.webex.co
+ m\n\n\n
+UID:040000008200E00074C5B7101A82E00800000000A0BCE1A17061DD01000000000000000
+ 0100000001D74F03C078CDC448D72055F094DB20E
+SUMMARY:Energy Networking Systems Quarterly Town Hall 
+DTSTART:20261117T190000Z
+DTEND:20261117T200000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261112T060945Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:https://cisco.webex.com/cisco/j.php?MTID=m00ebb943af86c709abb6c0fb
+ c1340247
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://cisco.webex.com/cisco/j.php?MTID=m0
+ 0ebb943af86c709abb6c0fbc1340247
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://cisco.webex.com/cisco/j.php?
+ MTID=m00ebb943af86c709abb6c0fbc1340247"\,"LocationAnnotation":""\,"Locatio
+ nUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\,"Loc
+ ationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
